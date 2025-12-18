@@ -35,7 +35,9 @@
     </div>
 
 
-   <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongseak&theme=tokyonight&show_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongseak&theme=tokyonight&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongseak&layout=compact&theme=tokyonight)
+
 
 꾸미고 있는 중입니다!
     
