@@ -39,7 +39,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongseak&layout=compact&theme=tokyonight)
 
 
-꾸미고 있는 중입니다!
+꾸미고 있는 중입니다!(shark 얻자!)
     
 <br>
 
