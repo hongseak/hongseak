@@ -1,3 +1,5 @@
+<!--
+
 ``` kotlin    
 val devlopmentLanguage = "Kotlin, Java and... Swift(UI)"
 val devPattern = "MVVM, Compose"
@@ -13,6 +15,7 @@ fun main() = runBlocking {
 }
 
 ```
+-->
 
 
 
