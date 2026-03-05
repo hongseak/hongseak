@@ -25,13 +25,14 @@ fun main() = runBlocking {
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Println(Hello World!) </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> val koreanName = "송홍석"</li><li> val englishName = "Song Hong Seok"</li><li> val introduction = "안드로이드 개발자입니다!"</li><li> val devlopmentLanguage = "Kotlin, Java and... Swift(UI)"</li><li> val devPattern = "MVVM, Compose"
-    </li> <li> fun main() = runBolcking{
+    </li> <li> 
+        fun main() = runBolcking{
     </br>&nbsp; &nbsp; launch{
-    </br>&nbsp; &nbsp; &nbsp; delay(1000L) 
-    </br>&nbsp; &nbsp; &nbsp; println("Code created!")
+    </br>&nbsp; &nbsp; &nbsp; &nbsp; delay(1000L) 
+    </br>&nbsp; &nbsp; &nbsp; &nbsp; println("Code created!")
     </br>&nbsp; &nbsp; }
     </br>&nbsp; &nbsp; println("Processing...") 
-    </br>&nbsp; }</li> </div> 
+    </br>}</li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
