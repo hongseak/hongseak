@@ -1,10 +1,34 @@
+``` kotlin    
+val devlopmentLanguage = "Kotlin, Java and... Swift(UI)"
+val devPattern = "MVVM, Compose"
+val koreanName = "송홍석"
+val englishName = "Song Hong Seok"
+val introduction = "안드로이드 개발자입니다!"
+fun main() = runBlocking { 
+    launch { 
+        delay(1000L) 
+        println("Code created!")
+    }
+    println("Processing...") 
+}
+
+```
+
+
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=Welcom%20HS%20Song's%20GitHub&animation=twinkling&fontColor=36a1c4&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Print(Hello World!) </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> val koreanName = "송홍석"</li><li> val englishName = "Song Hong Seok"</li><li> val introduction = "안드로이드 개발자입니다!"</li><li> val devlopmentLanguage = "Kotlin, Java and... Swift(UI)"</li><li> val devPattern = "MVVM, Compose"</li>fun main() = runBolcking{</li> launch{</li>   makeCode(devlopmentLanguage)</li> }</li>}</li> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Println(Hello World!) </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> val koreanName = "송홍석"</li><li> val englishName = "Song Hong Seok"</li><li> val introduction = "안드로이드 개발자입니다!"</li><li> val devlopmentLanguage = "Kotlin, Java and... Swift(UI)"</li><li> val devPattern = "MVVM, Compose"
+    </li> <li> fun main() = runBolcking{
+    </br>&nbsp; &nbsp; launch{
+    </br>&nbsp; &nbsp; &nbsp; delay(1000L) 
+    </br>&nbsp; &nbsp; &nbsp; println("Code created!")
+    </br>&nbsp; &nbsp; }
+    </br>&nbsp; &nbsp; println("Processing...") 
+    </br>&nbsp; }</li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
